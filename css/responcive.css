@@ -1,0 +1,24 @@
+@media (min-width: 320px) and (max-width: 565px){
+    .object{
+        width: 100px;
+        height: 100px;
+    }
+    .startMenu{
+        margin: 20px;
+    }
+    .startMenu h2{
+        font-size: 18px;
+        margin: 20px 0 15px 0;
+    }
+    .startMenu label{
+        margin-bottom: 5px;
+        font-size: 16px;
+    }
+    .startMenu .startBtn button{
+        padding: 7px 12px;
+        margin-top: 15px;
+        margin-bottom: 20px;
+        font-size: 14px;
+        border-radius: 7px;
+    }
+}
